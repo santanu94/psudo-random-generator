@@ -2,6 +2,8 @@
 A psudo random generator code based on Middle Square Method algorithm.
 The main code goes in the customPRG.py file.
 It has a function random() which accepts a numerical value(limit) as parameter, and generates a random number from 0 to ( limit - 1 ), both inclusive.
+
+The code produces a seed file which helps in reducing chances of repetaton at the start for the same seed value.
 # How to use
 1) Simply import the class:
 ```python

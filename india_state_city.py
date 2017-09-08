@@ -1,5 +1,7 @@
 #!/usr/bin/python
 
+##This code prints two cities for each Indian state in a csv file. It uses the customPRG.py to randomly get two cities for each state.
+
 import customPRG
 
 dataset = {}

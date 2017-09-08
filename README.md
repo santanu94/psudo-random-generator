@@ -1,4 +1,4 @@
-# psudo-random-generator
+# pseudo-random-generator
 A psudo random generator code based on Middle Square Method algorithm.
 The main code goes in the customPRG.py file.
 It has a function random() which accepts a numerical value(limit) as parameter, and generates a random number from 0 to ( limit - 1 ), both inclusive.

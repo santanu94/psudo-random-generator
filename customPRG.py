@@ -31,8 +31,8 @@ class customMSM:
         self.get_seed()
         for i in range(0,25000):
             self.generate_new_seed()
-        selection = customMSM.seed % limit      ##After giving lots of thought I chose % as it maintains equal biasnes towards all the possible output numbers.
-        customMSM.seed += selection             ##An addition from my side to try to reduce repeatitive patterns.
+        selection = customMSM.seed % limit      ##I chose % as it maintains equal biasnes towards all the possible output numbers.
+        customMSM.seed += selection             ##To try reduce repeatitive patterns.
         file = open('seed', 'w')                ##Saving seed value to file for more randomized value and to reduce chance of producing same number at each execution with same input condition.
         file.write(str(customMSM.seed))
         file.close

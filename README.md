@@ -5,15 +5,16 @@ It has a function random() which accepts a numerical value(limit) as parameter, 
 
 The code produces a seed file which helps in reducing chances of repetaton at the start for the same seed value.
 # How to use
-1) Simply import the class:
+1) Download the customPRG.py file in the same folder as rest of the file using this one, or else help yourself with the path.
+2) import the class:
 ```python
 import customPRG
 ```
-2) Create object for the class:
+3) create object for the class:
 ```python
 cmsm = customPRG.customMSM()
 ```
-3) Get random number:
+4) get random number:
 ```python
 rnd = cmsm.random(30)
 ```

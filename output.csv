@@ -1,0 +1,233 @@
+Record No, Country, State, City
+1, India, Andhra Pradesh, Prakasam
+2, India, Andhra Pradesh, Nalgonda
+3, India, Arunachal Pradesh, Lower Subansiri
+4, India, Arunachal Pradesh, Changlang
+5, India, Assam, Barpeta
+6, India, Assam, Tinsukia
+7, India, Bihar, Sheikhpura
+8, India, Bihar, Saran
+9, India, Chhattisgarh, Dantewada
+10, India, Chhattisgarh, Bastar
+11, India, Goa, North Goa
+12, India, Goa, South Goa
+13, India, Gujarat, Ahmedabad
+14, India, Gujarat, Jamnagar
+15, India, Haryana, Jhajjar
+16, India, Haryana, Rewari
+17, India, Himachal Pradesh, Kangra
+18, India, Himachal Pradesh, Bilaspur
+19, India, Jammu and Kashmir, Anantnag
+20, India, Jammu and Kashmir, Badgam
+21, India, Jharkhand, Bokaro
+22, India, Jharkhand, Koderma
+23, India, Karnataka, Raichur
+24, India, Karnataka, Mysore
+25, India, Kerala, Pathanamthitta
+26, India, Kerala, Kannur
+27, India, Madhya Pradesh, Sagar
+28, India, Madhya Pradesh, Seoni
+29, India, Maharashtra, Kolhapur
+30, India, Maharashtra, Nanded
+31, India, Manipur, Chandel
+32, India, Manipur, Senapati
+33, India, Meghalaya, East Garo Hills
+34, India, Meghalaya, West Khasi Hills
+35, India, Mizoram, Mamit
+36, India, Mizoram, Lunglei
+37, India, Nagaland, Zunheboto
+38, India, Nagaland, Kohima
+39, India, Orissa, Sambalpur
+40, India, Orissa, Khordha
+41, India, Punjab, Kapurthala
+42, India, Punjab, Sangrur
+43, India, Rajasthan, Bundi
+44, India, Rajasthan, Banswara
+45, India, Sikkim, South Sikkim
+46, India, Sikkim, North Sikkim
+47, India, Tamil Nadu, Dindigul
+48, India, Tamil Nadu, Thanjavur
+49, India, Telangana, Siddipet
+50, India, Telangana, Mahbubnagar
+51, India, Tripura, Dhalai
+52, India, Tripura, West Tripura
+53, India, Uttarakhand, Udham Singh Nagar
+54, India, Uttarakhand, Dehradun
+55, India, Uttar Pradesh, Unnao
+56, India, Uttar Pradesh, Gonda
+57, India, West Bengal, Murshidabad
+58, India, West Bengal, Malda
+59, India, Andhra Pradesh, Rangareddi
+60, India, Andhra Pradesh, Guntur
+61, India, Arunachal Pradesh, Changlang
+62, India, Arunachal Pradesh, Upper Subansiri
+63, India, Assam, Dhemaji
+64, India, Assam, Dibrugarh
+65, India, Bihar, Banka
+66, India, Bihar, Gopalganj
+67, India, Chhattisgarh, Raigarh
+68, India, Chhattisgarh, Bastar
+69, India, Goa, North Goa
+70, India, Goa, South Goa
+71, India, Gujarat, Junagadh
+72, India, Gujarat, Jamnagar
+73, India, Haryana, Panipat
+74, India, Haryana, Palwal
+75, India, Himachal Pradesh, Chamba
+76, India, Himachal Pradesh, Bilaspur
+77, India, Jammu and Kashmir, Kupwara
+78, India, Jammu and Kashmir, Anantnag
+79, India, Jharkhand, Garhwa
+80, India, Jharkhand, Lohardaga
+81, India, Karnataka, Bagalkot
+82, India, Karnataka, Davanagere
+83, India, Kerala, Kottayam
+84, India, Kerala, Alappuzha
+85, India, Madhya Pradesh, Sidhi
+86, India, Madhya Pradesh, Raisen
+87, India, Maharashtra, Gondiya
+88, India, Maharashtra, Kolhapur
+89, India, Manipur, Thoubal
+90, India, Manipur, Imphal West
+91, India, Meghalaya, South Garo Hills
+92, India, Meghalaya, West Khasi Hills
+93, India, Mizoram, Saiha
+94, India, Mizoram, Lawngtlai
+95, India, Nagaland, Zunheboto
+96, India, Nagaland, Mokokchung
+97, India, Orissa, Sambalpur
+98, India, Orissa, Kendrapara
+99, India, Punjab, Faridkot
+100, India, Punjab, Mansa
+101, India, Rajasthan, Ajmer
+102, India, Rajasthan, Alwar
+103, India, Sikkim, East Sikkim
+104, India, Sikkim, North Sikkim
+105, India, Tamil Nadu, Ariyalur
+106, India, Tamil Nadu, Tiruchirappalli
+107, India, Telangana, Mahbubnagar
+108, India, Telangana, Warangal
+109, India, Tripura, Dhalai
+110, India, Tripura, West Tripura
+111, India, Uttarakhand, Bageshwar
+112, India, Uttarakhand, Pithoragharh
+113, India, Uttar Pradesh, Basti
+114, India, Uttar Pradesh, Sitapur
+115, India, West Bengal, Uttar Dinajpur
+116, India, West Bengal, Howrah
+117, India, Andhra Pradesh, Vizianagaram
+118, India, Andhra Pradesh, Guntur
+119, India, Arunachal Pradesh, East Kameng
+120, India, Arunachal Pradesh, Lower Subansiri
+121, India, Assam, Jorhat
+122, India, Assam, Nagaon
+123, India, Bihar, Sheohar
+124, India, Bihar, Samastipur
+125, India, Chhattisgarh, Dhamtari
+126, India, Chhattisgarh, Jashpur
+127, India, Goa, North Goa
+128, India, Goa, South Goa
+129, India, Gujarat, Gandhinagar
+130, India, Gujarat, Bhavnagar
+131, India, Haryana, Gurgaon
+132, India, Haryana, Kaithal
+133, India, Himachal Pradesh, Shimla
+134, India, Himachal Pradesh, Kangra
+135, India, Jammu and Kashmir, Jammu
+136, India, Jammu and Kashmir, Pulwama
+137, India, Jharkhand, Deoghar
+138, India, Jharkhand, Bokaro
+139, India, Karnataka, Davanagere
+140, India, Karnataka, Uttara Kannada
+141, India, Kerala, Kannur
+142, India, Kerala, Malappuram
+143, India, Madhya Pradesh, Alirajpur
+144, India, Madhya Pradesh, Vidisha
+145, India, Maharashtra, Aurangabad
+146, India, Maharashtra, Bhandara
+147, India, Manipur, Churachandpur
+148, India, Manipur, Chandel
+149, India, Meghalaya, Ri-Bhoi
+150, India, Meghalaya, West Khasi Hills
+151, India, Mizoram, Kolasib
+152, India, Mizoram, Saiha
+153, India, Nagaland, Mokokchung
+154, India, Nagaland, Wokha
+155, India, Orissa, Kalahandi
+156, India, Orissa, Gajapati
+157, India, Punjab, Gurdaspur
+158, India, Punjab, Patiala
+159, India, Rajasthan, Sikar
+160, India, Rajasthan, Nagaur
+161, India, Sikkim, East Sikkim
+162, India, Sikkim, South Sikkim
+163, India, Tamil Nadu, Thoothukudi
+164, India, Tamil Nadu, Thanjavur
+165, India, Telangana, Siddipet
+166, India, Telangana, Nalgonda
+167, India, Tripura, West Tripura
+168, India, Tripura, North Tripura
+169, India, Uttarakhand, Nainital
+170, India, Uttarakhand, Tehri Garhwal
+171, India, Uttar Pradesh, Saharanpur
+172, India, Uttar Pradesh, Gorkakhpur
+173, India, West Bengal, Midnapore
+174, India, West Bengal, North 24 Parganas
+175, India, Andhra Pradesh, Nizamabad
+176, India, Andhra Pradesh, Adilabad
+177, India, Arunachal Pradesh, Tirap
+178, India, Arunachal Pradesh, Anjaw
+179, India, Assam, Sibsagar
+180, India, Assam, Bongaigaon
+181, India, Bihar, Saharsa
+182, India, Bihar, Khagaria
+183, India, Chhattisgarh, Mahasamund
+184, India, Chhattisgarh, Kanker
+185, India, Goa, South Goa
+186, India, Goa, North Goa
+187, India, Gujarat, Navsari
+188, India, Gujarat, Junagadh
+189, India, Haryana, Faridabad
+190, India, Haryana, Bhiwani
+191, India, Himachal Pradesh, Kinnaur
+192, India, Himachal Pradesh, Mandi
+193, India, Jammu and Kashmir, Rajauri
+194, India, Jammu and Kashmir, Srinagar
+195, India, Jharkhand, Bokaro
+196, India, Jharkhand, Lohardaga
+197, India, Karnataka, Ramanagara
+198, India, Karnataka, Mandya
+199, India, Kerala, Malappuram
+200, India, Kerala, Ernakulam
+201, India, Madhya Pradesh, Alirajpur
+202, India, Madhya Pradesh, Jhabua
+203, India, Maharashtra, Wardha
+204, India, Maharashtra, Kolhapur
+205, India, Manipur, Ukhrul
+206, India, Manipur, Churachandpur
+207, India, Meghalaya, Ri-Bhoi
+208, India, Meghalaya, West Garo Hills
+209, India, Mizoram, Champhai
+210, India, Mizoram, Kolasib
+211, India, Nagaland, Mokokchung
+212, India, Nagaland, Phek
+213, India, Orissa, Cuttack
+214, India, Orissa, Bhadrak
+215, India, Punjab, Firozpur
+216, India, Punjab, Fatehgarh Sahib
+217, India, Rajasthan, Sawai Madhopur
+218, India, Rajasthan, Dungapur
+219, India, Sikkim, West Sikkim
+220, India, Sikkim, South Sikkim
+221, India, Tamil Nadu, Nagapattinam
+222, India, Tamil Nadu, Namakkal
+223, India, Telangana, Ramagundam
+224, India, Telangana, Warangal
+225, India, Tripura, South Tripura
+226, India, Tripura, Dhalai
+227, India, Uttarakhand, Pauri Garhwal
+228, India, Uttarakhand, Almora
+229, India, Uttar Pradesh, Mainpuri
+230, India, Uttar Pradesh, Bijnor
+231, India, West Bengal, Howrah
+232, India, West Bengal, Murshidabad
